@@ -101,6 +101,33 @@ table, th, td {
     font-weight: bold;
     color: white;
 }
+
+/*COLORES PARA HORARIO DE NUTRICION */ 
+.swi {
+    background-color: #1E90FF;
+    font-weight: bold;
+    color: white;
+}
+.run {
+    background-color: #2F4F4F;
+    font-weight: bold;
+    color: white;
+}
+.des {
+    background-color: #FFA500;
+    font-weight: bold;
+    color: white;
+}
+.des {
+    background-color: #32CD32;
+    font-weight: bold;
+    color: white;
+}
+.alm {
+    background-color: #000000;
+    font-weight: bold;
+    color: white;
+}
 li {
     margin-bottom: 15px;
     font-weight: bold;
